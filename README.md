@@ -1,0 +1,1 @@
+First Year project involving the creation of an SQLite database to store information about an Electrician's bookings and an .ipynb file used to query the database. As this is my first forage into coding, neither of these aspects will be ideal and particular issues include a redundant table in the database and a lack of modularity in the Python.
